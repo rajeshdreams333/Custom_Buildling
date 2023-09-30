@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Custom_Building_Profile.......</h1>
+      <h1>Merge Request</h1>
     </div>
   );
 }
